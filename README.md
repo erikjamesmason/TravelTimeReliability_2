@@ -20,13 +20,14 @@
 
 ### The outline for this notebook is as follows:
  ---
-<h4>Travel Time Reliability Issues</h4>
-     <ol>
-        <li> <h5>How to assess Reliability of your Travel Time Data</h5></li>
-    <ul><li><h5>How reliable is the Travel Time Data?</h5></li></ul>
-        <li><h5>How to Clean and Transform your Travel Time Data</h5></li>
-    <ul><li><h5>Does cleaning the data affect the measures for business units?</h5></li></ul>
-            <li><h5>How to set Performance Metrics for Business Unit Planning</h5></li>
-    <ul><li><h5>How can we prioritize projects accordingly?</h5></li></ul>
-    </ol>
+#### Travel Time Reliability Issues
+   1. How to assess Reliability of your Travel Time Data
+    -How reliable is the Travel Time Data?
+   2. How to Clean and Transform your Travel Time Data
+    -Does cleaning the data affect the measures for business units?
+  3. How to set Performance Metrics for Business Unit Planning
+    -How can we prioritize projects accordingly?
+   
 
+## Data can be accessed here:
+www.kaggle.com/dataset/fe7d61cd3fd8566a4630510daceb5d3cba3a63856fbe9bbe2f2be8316fae432d

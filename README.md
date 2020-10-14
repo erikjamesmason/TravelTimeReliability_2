@@ -31,3 +31,14 @@
 
 ## Data can be accessed here:
 www.kaggle.com/dataset/fe7d61cd3fd8566a4630510daceb5d3cba3a63856fbe9bbe2f2be8316fae432d
+
+## OR
+
+```
+from kaggle.api.kaggle_api_extended import KaggleApi
+api = KaggleApi()
+api.authenticate()
+api.dataset_download_files('alaska-travel-time-reliability')
+```
+
+you can reference https://technowhisp.com/kaggle-api-python-documentation/ for assistance

@@ -1,7 +1,4 @@
 # TravelTimeReliability_2
-<i>Issue with git LFS on previous</i>
-
-# TravelTimeReliability
 
 ---
 

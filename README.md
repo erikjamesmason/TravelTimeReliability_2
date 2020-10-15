@@ -39,3 +39,7 @@ api.dataset_download_files('alaska-travel-time-reliability')
 ```
 
 you can reference https://technowhisp.com/kaggle-api-python-documentation/ for assistance
+
+## Note:
+>October 15, 2020
+downloading repo as a .zip will corrupt the notebook with a NotJSONError
